@@ -1,0 +1,16 @@
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\model\EntityTools.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\model\Spreadsheet.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\repository\ReportRepository.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\model\JSONEntity.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\model\Report.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\repository\SpreadsheetRepository.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\service\ConnectionSpecService.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\repository\ConnectionSpecRepository.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\model\Database.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\service\DatabaseService.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\service\ReportService.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\service\SpreadsheetService.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\model\DatabaseType.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\spreadsheet\SpreadsheetGenerator.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\repository\DatabaseRepository.java
+C:\Users\james\workspaces\ee-workspace\DBSC-Common\src\main\java\io\jayms\dbsc\interfaces\model\ConnectionSpec.java

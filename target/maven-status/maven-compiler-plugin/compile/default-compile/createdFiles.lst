@@ -1,0 +1,16 @@
+io\jayms\dbsc\interfaces\model\Spreadsheet.class
+io\jayms\dbsc\interfaces\repository\ConnectionSpecRepository.class
+io\jayms\dbsc\interfaces\service\ReportService.class
+io\jayms\dbsc\interfaces\service\SpreadsheetService.class
+io\jayms\dbsc\interfaces\model\Database.class
+io\jayms\dbsc\interfaces\service\DatabaseService.class
+io\jayms\dbsc\interfaces\service\ConnectionSpecService.class
+io\jayms\dbsc\interfaces\spreadsheet\SpreadsheetGenerator.class
+io\jayms\dbsc\interfaces\model\ConnectionSpec.class
+io\jayms\dbsc\interfaces\model\DatabaseType.class
+io\jayms\dbsc\interfaces\repository\ReportRepository.class
+io\jayms\dbsc\interfaces\repository\SpreadsheetRepository.class
+io\jayms\dbsc\interfaces\model\EntityTools.class
+io\jayms\dbsc\interfaces\model\Report.class
+io\jayms\dbsc\interfaces\repository\DatabaseRepository.class
+io\jayms\dbsc\interfaces\model\JSONEntity.class
